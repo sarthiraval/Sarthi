@@ -1,0 +1,13 @@
+.navbar {
+    -webkit-transition: .3s;
+    transition: .3s;
+}
+
+.navbar-brand.logo img {
+    max-height: 40px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 15px;
+}
